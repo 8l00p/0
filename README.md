@@ -1,2 +1,2 @@
 # 0
-White paper 
+metagame whitepaper
