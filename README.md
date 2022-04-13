@@ -1,2 +1,2 @@
 # imagination >0
-metagame whitepaper
+metagame whitepaper in development
