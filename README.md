@@ -1,2 +1,2 @@
-# 0
+# imagination >0
 metagame whitepaper
